@@ -17,9 +17,9 @@
     },
     "homepage": "https://github.com/aneelia/learn-js#readme",
     "devDependencies": {
-        "@babel/core": "^7.10.4",
-        "@babel/preset-env": "^7.10.4",
-        "babel-jest": "^26.1.0",
+        "@babel/core": "^7.20.2",
+        "@babel/preset-env": "^7.20.2",
+        "babel-jest": "^26.6.3",
         "cypress": "^4.10.0",
         "jest": "^26.6.3"
     }
